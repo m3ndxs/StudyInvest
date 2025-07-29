@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "re6r5UgjYh4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leona\\OneDrive\\Área de Trabalho\\Programação\\projects\\SistemaDeAcoes\\StudyInvest.API\\StudyInvest.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\leona\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

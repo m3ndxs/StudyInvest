@@ -1,0 +1,12 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\bin\Debug\net9.0\StudyInvest.Domain.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\bin\Debug\net9.0\StudyInvest.Domain.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\bin\Debug\net9.0\StudyInvest.Domain.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\StudyInvest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\StudyInvest.Domain.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\StudyInvest.Domain.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\StudyInvest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\StudyInvest.Domain.sourcelink.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\StudyInvest.Domain.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\refint\StudyInvest.Domain.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\StudyInvest.Domain.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Domain\obj\Debug\net9.0\ref\StudyInvest.Domain.dll

@@ -1,0 +1,16 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\bin\Debug\net9.0\StudyInvest.Application.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\bin\Debug\net9.0\StudyInvest.Application.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\bin\Debug\net9.0\StudyInvest.Application.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\bin\Debug\net9.0\StudyInvest.Domain.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\bin\Debug\net9.0\StudyInvest.Domain.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInvest.Application.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInvest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInvest.Application.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInvest.Application.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInvest.Application.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInvest.Application.sourcelink.json
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInv.9CE46154.Up2Date
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInvest.Application.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\refint\StudyInvest.Application.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\StudyInvest.Application.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Programação\projects\SistemaDeAcoes\StudyInvest.Application\obj\Debug\net9.0\ref\StudyInvest.Application.dll
